@@ -1,7 +1,7 @@
 package main
 
 import (
-	"easy_tools/files"
+	"illegal_filename_filter/files"
 )
 
 func main() {

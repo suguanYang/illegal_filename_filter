@@ -1,7 +1,7 @@
 package files
 
 import (
-	"easy_tools/lib"
+	"illegal_filename_filter/lib"
 	"os"
 	"regexp"
 )
